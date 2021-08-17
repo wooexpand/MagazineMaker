@@ -1,0 +1,9 @@
+cut:
+  fromX: 0
+  fromY: 537
+  toX: 1283
+  toY: 2280
+pagesize:
+  wide: 1283
+  heigh: 1743
+pdffilename: TravialNote_202109.pdf
